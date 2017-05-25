@@ -153,3 +153,5 @@ out
 resources/*.pem
 
 .nyc_output/
+
+config.json
